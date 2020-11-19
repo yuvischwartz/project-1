@@ -36,6 +36,12 @@ header{
     clear:both;
 }
 
+#shipping_policy>h2{
+    position: absolute;
+    top: -9px;
+    right: 20%;
+}
+
 nav {
     background-color: white;
     height:80px;
