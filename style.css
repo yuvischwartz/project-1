@@ -117,6 +117,20 @@ body {
     position: absolute;
     left:0px;
     top:0px;
+    color: black;
+    font-family: 'Tomeric', sans-serif, Arial;
+    font-size: 15px;
+    text-align: center;
+}
+#button{
+    text-decoration:none;
+    font-family: 'Tomeric', sans-serif, Arial;
+    color: #88C200;
+    font-size: 15px; 
+    border: 1px solid #88C200;
+    padding: 10px;
+    border-radius: 7px;
+
 }
 .pantry{
     background-color: orange;
