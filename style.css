@@ -6,6 +6,21 @@ header{
     position: fixed;
 }
 
+@font-face{
+    font-family:'Tomeric';
+    src: url(Fonts/The\ Northern\ Block\ Ltd\ -\ Tomarik\ Introvert.otf);
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face{
+    font-family: 'Showcase';
+    src: url(Fonts/Latinotype\ -\ ShowcaseSansMini.otf);
+    font-style: normal;
+    font-weight: normal;
+}
+ 
+
 #shipping_policy{
     background-color: #88C200;
     height:50px;
@@ -16,18 +31,19 @@ header{
     top: 0px;
     left:0px;
     right:0px;
+    font-family: 'Tomeric', sans-serif, Arial;
 }
 
 nav {
     background-color: white;
-    height:70px;
+    height:75px;
     color: black;
     font-size:18px;
     position: absolute;
     left: 0px;
     right: 0px;
     bottom:0px;
-    text-align:center;
+    /*text-align:center;*/
 }
 
 #logo{
@@ -36,6 +52,25 @@ nav {
     left: 3px;
     bottom:0px;
     top:-43px
+}
+
+ul {
+    position: absolute;
+    top:10%;
+    left: 10%;
+}
+
+li {
+    display:inline;
+    list-style:none;
+    padding: 30px;
+    font-size:20px;  
+    text-align:left;
+}
+.nav_item{
+    color:black;
+    text-decoration:none;
+    font-family: 'Tomeric', sans-serif, Arial;
 }
 body {
     background-color:wheat;
