@@ -73,5 +73,25 @@ li {
     font-family: 'Tomeric', sans-serif, Arial;
 }
 body {
-    background-color:wheat;
+    background-color:white;
 }
+
+.content_intro{
+    position: absolute;
+    top:45%;
+    right:30%;
+    text-align: center;
+    font-family:'Tomeric', sans-serif, Arial;
+    color:black;
+}
+.content_intro>h2{
+    font-size: 35px;
+}
+
+.content_intro>p{
+    font-size: 20px;
+}
+
+
+
+
