@@ -4,6 +4,7 @@ header{
     height: 120px;
     position: relative;
     position: fixed;
+    clear:both;
 }
 
 @font-face{
@@ -32,6 +33,7 @@ header{
     left:0px;
     right:0px;
     font-family: 'Tomeric', sans-serif, Arial;
+    clear:both;
 }
 
 nav {
@@ -44,6 +46,7 @@ nav {
     right: 0px;
     bottom:0px;
     /*text-align:center;*/
+    clear:both;
 }
 
 #logo{
@@ -90,6 +93,12 @@ body {
 
 .content_intro>p{
     font-size: 20px;
+}
+
+.about{
+    background-color: grey;
+    width: 100%;
+    height: 400px;
 }
 
 
