@@ -122,6 +122,9 @@ body {
     font-size: 15px;
     text-align: center;
 }
+.about>img{
+    float: right;
+}
 #button{
     text-decoration:none;
     font-family: 'Tomeric', sans-serif, Arial;
@@ -133,14 +136,41 @@ body {
 
 }
 .pantry{
-    background-color: orange;
+    background-color: white;
     width: 100%;
     height: 360px;
+    color: black;
+    font-family: 'Tomeric', sans-serif, Arial;
+    font-size: 13px;
+    text-align: center;
+    position: relative;
 }
 
-.about>img{
-    float: right;
+.pantry>p {
+    position: absolute;
+    top:20px;
+    left:548px;
+    
 }
+
+#title{
+    color: #88C200;
+    font-size: 25px;
+    font-family: 'Tomeric', sans-serif, Arial;
+    text-align: center;
+    margin: 15px;
+
+}
+
+.pantry>img{
+    display:inline;
+    border: 1px solid grey;
+    padding: 5px;
+    margin: 5px;
+}
+
+
+
 
 
 
