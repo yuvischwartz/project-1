@@ -5,6 +5,7 @@ header{
     position: relative;
     position: fixed;
     clear:both;
+    z-index: 1;
 }
 
 @font-face{
@@ -60,7 +61,7 @@ nav {
     position: absolute;
     left: 3px;
     bottom:0px;
-    top:-43px
+    top:-43px;
 }
 
 ul {
