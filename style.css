@@ -193,6 +193,7 @@ footer{
     font-family: 'Tomeric', sans-serif, Arial;
     color:black;
     font-size: 15px;
+    
 }
 
 .footer_menu{
@@ -218,6 +219,12 @@ footer>a {
     position: absolute;
     left:600px;
     top:-30px;
+}
+footer>img {
+    text-align:center;
+    position: absolute;
+    left:1210px;
+    top:69px;
 }
 
 footer>section{
