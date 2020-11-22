@@ -292,5 +292,22 @@ footer>section{
     left:100px;
 }
 
+h1 {
+    color: #88C200;
+    font-size: 25px;
+    font-family: 'Tomeric', sans-serif, Arial;
+    text-align: left;
+}
+
+article{
+    color: black;
+    font-size: 15px;
+    font-family: 'Tomeric', sans-serif, Arial;
+    text-align: left;
+}
+
+
+
+
 
 
