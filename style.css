@@ -343,3 +343,15 @@ Input[type=message]{
     font-size:15px;
     
 }
+
+.cart > a {
+    color:black;
+    text-decoration:none;
+    font-family: 'Tomeric', sans-serif, Arial;
+    position: absolute;
+    right: -640px;
+}
+.container{
+
+}
+.
