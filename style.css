@@ -356,3 +356,7 @@ Input[type=message]{
     background-color: #88C200;
     color:white;
 }
+
+.nav_item:hover,.cart:hover{
+    color:#88C200;
+}
