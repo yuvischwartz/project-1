@@ -6,4 +6,5 @@
     1.Adding a cart option for customer purchases and a workable "add to cart" option for customers on the Shop page.
     2.Adding a product description page for each product.
     3.Screen reader compatibility.
+    4.Add image hover effects.
     
