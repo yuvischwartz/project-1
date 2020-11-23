@@ -52,12 +52,10 @@ nav {
     left: 0px;
     right: 0px;
     bottom:0px;
-    /*text-align:center;*/
     clear:both;
 }
 
 #logo{
-    /*float:left;*/
     position: absolute;
     left: 3px;
     bottom:0px;
